@@ -8,9 +8,9 @@
 | |전화번호 목록| |
 | |위장| |
 | |베스트앨범| |
-|정렬|K번째수| |
-| |가장 큰 수| |
-| |H-Index| |
+|정렬|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)| |
+| |[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)| |
+| |[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)| |
 |완전탐색|모의고사| |
 | |소수 찾기| |
 | |카펫| |
