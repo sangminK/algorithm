@@ -8,8 +8,8 @@ class Solution {
 	public int solution(int[] priorities, int location) {
 		int answer = 0;
 
-		// push : offer(n)
-		// pop : poll()
+		// push   : offer(n)
+		// pop    : poll()
 		// peek() : 값을 꺼내지 않고 Q 맨 앞의 값 확인하기
 		Queue<Integer> q = new LinkedList<>();
 		List<Integer> prList = new ArrayList<Integer>();
