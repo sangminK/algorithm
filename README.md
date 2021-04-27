@@ -5,7 +5,7 @@
 
 |유형|문제|풀이|
 |------|---|---|
-|해시|완주하지 못한 선수| |
+|해시|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[JAVA](https://github.com/sangminK/algorithm/blob/main/programmers/lv1_player.java) |
 | |전화번호 목록| |
 | |위장| |
 | |베스트앨범| |
