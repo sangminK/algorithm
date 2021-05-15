@@ -19,3 +19,4 @@
 | |[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[JAVA](https://github.com/sangminK/algorithm/blob/main/programmers/lv2_stock_price.java)|
 | |[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)| |
 | |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[JAVA](https://github.com/sangminK/algorithm/blob/main/programmers/lv2_printer.java)|
+|깊이/너비 우선 탐색(DFS/BFS)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[JAVA](https://github.com/sangminK/algorithm/blob/main/programmers/lv2_target_number.java)|
