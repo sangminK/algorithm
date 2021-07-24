@@ -14,7 +14,7 @@
 | |[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JAVA](https://github.com/sangminK/algorithm/blob/main/programmers/lv2_h_index.java)|
 |완전탐색|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[JAVA](https://github.com/sangminK/algorithm/blob/main/programmers/lv1_mock_test.java)|
 | |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[JAVA](https://github.com/sangminK/algorithm/blob/main/programmers/lv2_prime_number.java)|
-| |카펫| |
+| |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[JAVA] |
 |스택/큐|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)| |
 | |[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[JAVA](https://github.com/sangminK/algorithm/blob/main/programmers/lv2_stock_price.java)|
 | |[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)| |
